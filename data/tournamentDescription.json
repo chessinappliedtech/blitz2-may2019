@@ -1,0 +1,44 @@
+{
+  "tournamentTitle": "Блиц №2. Май-Июнь 2019",
+  "tournamentId": "blitz2.may2019",
+  "players": [
+    "ilya.maltsev",
+    "alexey.matveev",
+    "alexey.biryukov"
+  ],
+  "arbiter": "ilya.maltsev",
+  "deputyArbiters": [
+    "alexey.matveev",
+    "alexey.biryukov"
+  ],
+  "gameWriters": [
+    "alexey.matveev",
+    "alexey.biryukov",
+    "ilya.maltsev"
+  ],
+  "regulations": "Турнир №2 по блицу. Проводим с 20-го мая по 14-июня включительно (длительность ещё поправим в зависимости от количества участников). <br>Играем по <b>круговой схеме</b> с контролем времени 5 минут + 3 секунды добавление на ход.<br>Турнир двухраундовый, каждый играет с соперником <b>две</b> партии.<br>Конкретные дата и время игр не фиксированы, играем по готовности, но не затягиваем.<br>Коэффициенты: количество побед, Neustadtl (Sonneborn-Berger), Koya. <br>Если коэффициентов недостаточно для распределения мест, то играем стыковые матчи: <br>две партии с контролем 5+3, затем армагеддон (белые 5+3, чёрные 4+3, ничья трактуется в пользу чёрных), если игроков с одинаковыми коэффициентами больше чем два, придумаем схему позже.",
+  "tournamentSetup": {
+    "type": "round-robin",
+    "game-result-system": "STANDARD",
+    "time-control-type": "BLITZ",
+    "rounds-amount": 2,
+    "tie-breaks": [
+      "direct-encounter",
+      "number-of-wins",
+      "neustadtl",
+      "koya"
+    ],
+    "color-allocating-system": {
+      "name": "fixed-alternation-color-allocating-system",
+      "seed": 200000
+    }
+  },
+  "startDay": "2019-05-20",
+  "links": [
+    {
+      "purpose": "self",
+      "value": "https://chessinappliedtech.github.io/blitz2-may2019/",
+      "name": "<<< Турнирная таблица"
+    }
+  ]
+}
