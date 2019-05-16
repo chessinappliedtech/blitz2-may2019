@@ -4,7 +4,9 @@
   "players": [
     "ilya.maltsev",
     "alexey.matveev",
-    "alexey.biryukov"
+    "alexey.biryukov",
+    "anatoly.morozov",
+    "alexey.shklyar"
   ],
   "arbiter": "ilya.maltsev",
   "deputyArbiters": [
@@ -12,7 +14,7 @@
     "alexey.biryukov"
   ],
   "gameWriters": [
-    "alexey.matveev",
+    "alexey.shklyar",
     "alexey.biryukov",
     "ilya.maltsev"
   ],
