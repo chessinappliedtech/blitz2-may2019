@@ -5,7 +5,11 @@
     "tournamentId": "blitz2.may2019",
     "date": "20-05-2019",
     "result": "bw",
-    "timeControlType": "BLITZ"
+    "timeControlType": "BLITZ",
+    "pgnLocation": "data/alexey.biryukov-ilya.maltsev.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/sNaFAIll"
+    }
   },
   {
     "whiteId": "ilya.maltsev",
@@ -13,6 +17,10 @@
     "tournamentId": "blitz2.may2019",
     "date": "20-05-2019",
     "result": "ww",
-    "timeControlType": "BLITZ"
+    "timeControlType": "BLITZ",
+    "pgnLocation": "data/ilya.maltsev-alexey.biryukov.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/V1kZeAby"
+    }
   }
 ]
