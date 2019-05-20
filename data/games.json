@@ -1,2 +1,18 @@
 [
+  {
+    "whiteId": "alexey.biryukov",
+    "blackId": "ilya.maltsev",
+    "tournamentId": "blitz2.may2019",
+    "date": "20-05-2019",
+    "result": "bw",
+    "timeControlType": "BLITZ"
+  },
+  {
+    "whiteId": "ilya.maltsev",
+    "blackId": "alexey.biryukov",
+    "tournamentId": "blitz2.may2019",
+    "date": "20-05-2019",
+    "result": "ww",
+    "timeControlType": "BLITZ"
+  }
 ]
