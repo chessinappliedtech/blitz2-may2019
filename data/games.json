@@ -34,5 +34,13 @@
     "outerServiceLinks": {
       "lichess": "https://lichess.org/p6p1Xsn2"
     }
+  },
+  {
+    "whiteId": "alexey.biryukov",
+    "blackId": "alexey.matveev",
+    "tournamentId": "blitz2.may2019",
+    "date": "20-05-2019",
+    "result": "ww",
+    "timeControlType": "BLITZ"
   }
 ]
