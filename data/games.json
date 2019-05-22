@@ -42,5 +42,17 @@
     "date": "20-05-2019",
     "result": "ww",
     "timeControlType": "BLITZ"
+  },
+  {
+    "whiteId": "alexander.shkabara",
+    "blackId": "alexey.biryukov",
+    "tournamentId": "blitz2.may2019",
+    "date": "22-05-2019",
+    "result": "ww",
+    "timeControlType": "BLITZ",
+    "pgnLocation": "data/alexander.shkabara-alexey.biryukov.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/LCsW4m77"
+    }
   }
 ]
