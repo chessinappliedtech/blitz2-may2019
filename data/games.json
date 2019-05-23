@@ -82,5 +82,21 @@
     "date": "23-05-2019",
     "result": "ww",
     "timeControlType": "BLITZ"
+  },
+  {
+    "whiteId": "alexander.brezgin",
+    "blackId": "alexey.biryukov",
+    "tournamentId": "blitz2.may2019",
+    "date": "23-05-2019",
+    "result": "bw",
+    "timeControlType": "BLITZ"
+  },
+  {
+    "whiteId": "alexey.biryukov",
+    "blackId": "alexander.brezgin",
+    "tournamentId": "blitz2.may2019",
+    "date": "23-05-2019",
+    "result": "ww",
+    "timeControlType": "BLITZ"
   }
 ]
