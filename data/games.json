@@ -122,5 +122,21 @@
     "outerServiceLinks": {
       "lichess": "https://lichess.org/zWJnY5az"
     }
+  },
+  {
+    "whiteId": "alexander.brezgin",
+    "blackId": "ilya.maltsev",
+    "tournamentId": "blitz2.may2019",
+    "date": "24-05-2019",
+    "result": "bw",
+    "timeControlType": "BLITZ"
+  },
+  {
+    "whiteId": "ilya.maltsev",
+    "blackId": "alexander.brezgin",
+    "tournamentId": "blitz2.may2019",
+    "date": "24-05-2019",
+    "result": "ww",
+    "timeControlType": "BLITZ"
   }
 ]
