@@ -1,0 +1,17 @@
+[Event "Блиц №2. Май-Июнь 2019"]
+[Site "https://lichess.org/Gc0oZbuy"]
+[Date "24.05.2019, 13:11:36"]
+[Round "-"]
+[White "Алексей Шкляр"]
+[Black "Илья Мальцев"]
+[Result "0-1"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "E60"]
+[Opening "King's Indian Defense: Normal Variation, King's Knight Variation"]
+[Termination "Unknown"]
+[Annotator "lichess.org"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 { E60 King's Indian Defense: Normal Variation, King's Knight Variation } Bg7 4. e3 O-O 5. Bd3 d6 6. Nc3 c5 7. O-O Bg4 8. h3 Bh5 9. g4 Nxg4 10. hxg4 Bxg4 11. Qe1 Bxf3 12. Be4 Bxe4 13. Nxe4 cxd4 14. Rb1 d5 15. cxd5 Qxd5 16. Ng3 f5 17. e4 fxe4 18. Qxe4 Qxe4 19. Nxe4 Nc6 { Black wins. } 0-1

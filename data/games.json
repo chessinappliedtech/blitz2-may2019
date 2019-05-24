@@ -98,5 +98,29 @@
     "date": "23-05-2019",
     "result": "ww",
     "timeControlType": "BLITZ"
+  },
+  {
+    "whiteId": "alexey.shklyar",
+    "blackId": "ilya.maltsev",
+    "tournamentId": "blitz2.may2019",
+    "date": "24-05-2019",
+    "result": "bw",
+    "timeControlType": "BLITZ",
+    "pgnLocation": "data/alexey.shklyar-ilya.maltsev.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/Gc0oZbuy"
+    }
+  },
+  {
+    "whiteId": "ilya.maltsev",
+    "blackId": "alexey.shklyar",
+    "tournamentId": "blitz2.may2019",
+    "date": "24-05-2019",
+    "result": "ww",
+    "timeControlType": "BLITZ",
+    "pgnLocation": "data/ilya.maltsev-alexey.shklyar.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/zWJnY5az"
+    }
   }
 ]
