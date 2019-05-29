@@ -138,5 +138,21 @@
     "date": "24-05-2019",
     "result": "ww",
     "timeControlType": "BLITZ"
+  },
+  {
+    "whiteId": "alexey.shklyar",
+    "blackId": "alexey.matveev",
+    "tournamentId": "blitz2.may2019",
+    "date": "29-05-2019",
+    "result": "bw",
+    "timeControlType": "BLITZ"
+  },
+  {
+    "whiteId": "alexey.matveev",
+    "blackId": "alexey.shklyar",
+    "tournamentId": "blitz2.may2019",
+    "date": "29-05-2019",
+    "result": "ww",
+    "timeControlType": "BLITZ"
   }
 ]
