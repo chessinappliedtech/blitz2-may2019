@@ -169,6 +169,10 @@
     "tournamentId": "blitz2.may2019",
     "date": "30-05-2019",
     "result": "bw",
-    "timeControlType": "BLITZ"
+    "timeControlType": "BLITZ",
+    "pgnLocation": "data/anatoly.morozov-alexander.shkabara.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/ZhAxWBHW"
+    }
   }
 ]
