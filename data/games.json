@@ -154,5 +154,21 @@
     "date": "29-05-2019",
     "result": "ww",
     "timeControlType": "BLITZ"
+  },
+  {
+    "whiteId": "alexander.shkabara",
+    "blackId": "anatoly.morozov",
+    "tournamentId": "blitz2.may2019",
+    "date": "30-05-2019",
+    "result": "bw",
+    "timeControlType": "BLITZ"
+  },
+  {
+    "whiteId": "anatoly.morozov",
+    "blackId": "alexander.shkabara",
+    "tournamentId": "blitz2.may2019",
+    "date": "30-05-2019",
+    "result": "bw",
+    "timeControlType": "BLITZ"
   }
 ]
