@@ -174,5 +174,21 @@
     "outerServiceLinks": {
       "lichess": "https://lichess.org/ZhAxWBHW"
     }
+  },
+  {
+    "whiteId": "alexey.matveev",
+    "blackId": "anatoly.morozov",
+    "tournamentId": "blitz2.may2019",
+    "date": "31-05-2019",
+    "result": "ww",
+    "timeControlType": "BLITZ"
+  },
+  {
+    "whiteId": "anatoly.morozov",
+    "blackId": "alexey.matveev",
+    "tournamentId": "blitz2.may2019",
+    "date": "31-05-2019",
+    "result": "ww",
+    "timeControlType": "BLITZ"
   }
 ]
