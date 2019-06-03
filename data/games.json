@@ -195,7 +195,7 @@
     "whiteId": "ilya.maltsev",
     "blackId": "anatoly.morozov",
     "tournamentId": "blitz2.may2019",
-    "date": "31-05-2019",
+    "date": "03-06-2019",
     "result": "ww",
     "timeControlType": "BLITZ"
   },
@@ -203,7 +203,23 @@
     "whiteId": "anatoly.morozov",
     "blackId": "ilya.maltsev",
     "tournamentId": "blitz2.may2019",
-    "date": "31-05-2019",
+    "date": "03-06-2019",
+    "result": "bw",
+    "timeControlType": "BLITZ"
+  },
+  {
+    "whiteId": "ilya.maltsev",
+    "blackId": "alexander.shkabara",
+    "tournamentId": "blitz2.may2019",
+    "date": "03-06-2019",
+    "result": "ww",
+    "timeControlType": "BLITZ"
+  },
+  {
+    "whiteId": "alexander.shkabara",
+    "blackId": "ilya.maltsev",
+    "tournamentId": "blitz2.may2019",
+    "date": "03-06-2019",
     "result": "bw",
     "timeControlType": "BLITZ"
   }
