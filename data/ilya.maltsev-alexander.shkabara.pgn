@@ -1,0 +1,17 @@
+[Event "Блиц №2. Май-Июнь 2019"]
+[Site "https://lichess.org/4NdM7016"]
+[Date "03.06.2019, 14:34:02"]
+[Round "-"]
+[White "Илья Мальцев"]
+[Black "Александр Шкабара"]
+[Result "1-0"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C52"]
+[Opening "Italian Game: Evans Gambit, Compromised Defense"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. O-O dxc3 { C52 Italian Game: Evans Gambit, Compromised Defense } 8. Qb3 Nh6 9. Bxh6 gxh6 10. Bxf7+ Kf8 11. Bh5 Qf6 12. e5 Qf5 13. Nxc3 Qxh5 14. Rad1 Nxe5 15. Qa3+ d6 16. Nxe5 Bxc3 17. Qxc3 Qxe5 18. Qxc7 Rg8 19. Rxd6 Qg7 20. Rd8# { White wins by checkmate. } 1-0

@@ -213,7 +213,11 @@
     "tournamentId": "blitz2.may2019",
     "date": "03-06-2019",
     "result": "ww",
-    "timeControlType": "BLITZ"
+    "timeControlType": "BLITZ",
+    "pgnLocation": "data/ilya.maltsev-alexander.shkabara.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/4NdM7016"
+    }
   },
   {
     "whiteId": "alexander.shkabara",
