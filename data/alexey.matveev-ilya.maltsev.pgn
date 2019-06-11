@@ -1,0 +1,17 @@
+[Event "Блиц №2. Май-Июнь 2019"]
+[Site "https://lichess.org/FSRmUFZp"]
+[Date "11.06.2019, 12:08:59"]
+[Round "-"]
+[White "Алексей Матвеев"]
+[Black "Илья Мальцев"]
+[Result "0-1"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: London System"]
+[Termination "Unknown"]
+[Annotator "lichess.org"]
+
+1. d4 Nf6 2. Bf4 d5 3. Nf3 { D02 Queen's Pawn Game: London System } e6 4. e3 Bd6 5. Bg3 O-O 6. Bd3 Nc6 7. Nbd2 Nh5 8. Ne5 Nxg3 9. Nxc6 bxc6 10. hxg3 e5 11. Bxh7+ Kh8 12. Qh5 g6 13. Bxg6+ Kg7 14. Qh6+ Kf6 15. Bd3+ Ke7 16. dxe5 Bxe5 17. Qg5+ f6 18. Rh7+ Kd6 19. Qg7 Be6 20. Nf3 Bxb2 21. Rb1 Bc3+ 22. Ke2 Rg8 23. Qh6 Rb8 24. Rxb8 Qxb8 25. Qxf6 Bxf6 { Black wins. } 0-1

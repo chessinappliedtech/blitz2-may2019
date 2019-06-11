@@ -242,5 +242,29 @@
     "date": "10-06-2019",
     "result": "ww",
     "timeControlType": "BLITZ"
+  },
+  {
+    "whiteId": "anatoly.morozov",
+    "blackId": "alexey.shklyar",
+    "tournamentId": "blitz2.may2019",
+    "date": "11-06-2019",
+    "result": "ww",
+    "timeControlType": "BLITZ",
+    "pgnLocation": "data/anatoly.morozov-alexey.shklyar.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/RtqPd7y6"
+    }
+  },
+  {
+    "whiteId": "alexey.matveev",
+    "blackId": "ilya.maltsev",
+    "tournamentId": "blitz2.may2019",
+    "date": "11-06-2019",
+    "result": "bw",
+    "timeControlType": "BLITZ",
+    "pgnLocation": "data/alexey.matveev-ilya.maltsev.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/FSRmUFZp"
+    }
   }
 ]
