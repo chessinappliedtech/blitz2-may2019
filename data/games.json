@@ -226,5 +226,21 @@
     "date": "03-06-2019",
     "result": "bw",
     "timeControlType": "BLITZ"
+  },
+  {
+    "whiteId": "alexey.biryukov",
+    "blackId": "anatoly.morozov",
+    "tournamentId": "blitz2.may2019",
+    "date": "10-06-2019",
+    "result": "bw",
+    "timeControlType": "BLITZ"
+  },
+  {
+    "whiteId": "anatoly.morozov",
+    "blackId": "alexey.biryukov",
+    "tournamentId": "blitz2.may2019",
+    "date": "10-06-2019",
+    "result": "ww",
+    "timeControlType": "BLITZ"
   }
 ]
