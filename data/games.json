@@ -266,5 +266,17 @@
     "outerServiceLinks": {
       "lichess": "https://lichess.org/FSRmUFZp"
     }
+  },
+  {
+    "whiteId": "alexey.shklyar",
+    "blackId": "anatoly.morozov",
+    "tournamentId": "blitz2.may2019",
+    "date": "11-06-2019",
+    "result": "bw",
+    "timeControlType": "BLITZ",
+    "pgnLocation": "data/alexey.shklyar-anatoly.morozov.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/JCgvEKFC"
+    }
   }
 ]
