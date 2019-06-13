@@ -1,0 +1,17 @@
+[Event "Блиц №2. Май-Июнь 2019"]
+[Site "https://lichess.org/77SsHJQl"]
+[Date "13.06.2019, 16:30:28"]
+[Round "-"]
+[White "Алексей Шкляр"]
+[Black "Александр Шкабара"]
+[Result "0-1"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "D10"]
+[Opening "Slav Defense"]
+[Termination "Unknown"]
+[Annotator "lichess.org"]
+
+1. d4 d5 2. c4 c6 { D10 Slav Defense } 3. e3 Bf5 4. Nc3 e6 5. Nf3 Bb4 6. Bd2 Nf6 7. Nh4 Bxc3 8. Bxc3 Bg4 9. Nf3 Nbd7 10. Bd3 O-O 11. h3 Bh5 12. g4 Bg6 13. Bxg6 fxg6 14. Ne5 Nxe5 15. dxe5 Ne4 16. Qd4 Nxf2 17. Rf1 Nxh3 18. Rxf8+ Qxf8 19. O-O-O Nf2 20. Rf1 c5 21. Qd2 dxc4 22. Rxf2 Qe7 23. Qd6 Qg5 { Black wins. } 0-1

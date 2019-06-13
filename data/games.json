@@ -278,5 +278,29 @@
     "outerServiceLinks": {
       "lichess": "https://lichess.org/JCgvEKFC"
     }
+  },
+  {
+    "whiteId": "alexander.shkabara",
+    "blackId": "alexey.shklyar",
+    "tournamentId": "blitz2.may2019",
+    "date": "13-06-2019",
+    "result": "ww",
+    "timeControlType": "BLITZ",
+    "pgnLocation": "data/alexander.shkabara-alexey.shklyar.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/EOuLGAHj"
+    }
+  },
+  {
+    "whiteId": "alexey.shklyar",
+    "blackId": "alexander.shkabara",
+    "tournamentId": "blitz2.may2019",
+    "date": "13-06-2019",
+    "result": "bw",
+    "timeControlType": "BLITZ",
+    "pgnLocation": "data/alexey.shklyar-alexander.shkabara.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/77SsHJQl"
+    }
   }
 ]
