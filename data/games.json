@@ -302,5 +302,13 @@
     "outerServiceLinks": {
       "lichess": "https://lichess.org/77SsHJQl"
     }
+  },
+  {
+    "whiteId": "ilya.maltsev",
+    "blackId": "alexey.matveev",
+    "tournamentId": "blitz2.may2019",
+    "date": "14-06-2019",
+    "result": "ww",
+    "timeControlType": "BLITZ"
   }
 ]
