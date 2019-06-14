@@ -310,5 +310,29 @@
     "date": "14-06-2019",
     "result": "ww",
     "timeControlType": "BLITZ"
+  },
+  {
+    "whiteId": "alexander.shkabara",
+    "blackId": "alexander.brezgin",
+    "tournamentId": "blitz2.may2019",
+    "date": "14-06-2019",
+    "result": "ww",
+    "timeControlType": "BLITZ",
+    "pgnLocation": "data/alexander.shkabara-alexander.brezgin.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/19bR1rOV"
+    }
+  },
+  {
+    "whiteId": "alexander.brezgin",
+    "blackId": "alexander.shkabara",
+    "tournamentId": "blitz2.may2019",
+    "date": "14-06-2019",
+    "result": "ww",
+    "timeControlType": "BLITZ",
+    "pgnLocation": "data/alexander.brezgin-alexander.shkabara.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/qd7FDymj"
+    }
   }
 ]
