@@ -350,5 +350,21 @@
     "date": "14-06-2019",
     "result": "ww",
     "timeControlType": "BLITZ"
+  },
+  {
+    "whiteId": "alexander.brezgin",
+    "blackId": "anatoly.morozov",
+    "tournamentId": "blitz2.may2019",
+    "date": "14-06-2019",
+    "result": "bw",
+    "timeControlType": "BLITZ"
+  },
+  {
+    "whiteId": "anatoly.morozov",
+    "blackId": "alexander.brezgin",
+    "tournamentId": "blitz2.may2019",
+    "date": "14-06-2019",
+    "result": "ww",
+    "timeControlType": "BLITZ"
   }
 ]
