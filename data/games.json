@@ -334,5 +334,21 @@
     "outerServiceLinks": {
       "lichess": "https://lichess.org/qd7FDymj"
     }
+  },
+  {
+    "whiteId": "alexander.shkabara",
+    "blackId": "alexey.matveev",
+    "tournamentId": "blitz2.may2019",
+    "date": "14-06-2019",
+    "result": "bw",
+    "timeControlType": "BLITZ"
+  },
+  {
+    "whiteId": "alexey.matveev",
+    "blackId": "alexander.shkabara",
+    "tournamentId": "blitz2.may2019",
+    "date": "14-06-2019",
+    "result": "ww",
+    "timeControlType": "BLITZ"
   }
 ]
