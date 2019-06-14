@@ -341,7 +341,11 @@
     "tournamentId": "blitz2.may2019",
     "date": "14-06-2019",
     "result": "bw",
-    "timeControlType": "BLITZ"
+    "timeControlType": "BLITZ",
+    "pgnLocation": "data/alexander.shkabara-alexey.matveev.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/BplNu4mp"
+    }
   },
   {
     "whiteId": "alexey.matveev",
@@ -365,6 +369,58 @@
     "tournamentId": "blitz2.may2019",
     "date": "14-06-2019",
     "result": "ww",
-    "timeControlType": "BLITZ"
+    "timeControlType": "BLITZ",
+    "pgnLocation": "data/anatoly.morozov-alexander.brezgin.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/x3yknrg6"
+    }
+  },
+  {
+    "whiteId": "alexander.brezgin",
+    "blackId": "alexey.shklyar",
+    "tournamentId": "blitz2.may2019",
+    "date": "14-06-2019",
+    "result": "bw",
+    "timeControlType": "BLITZ",
+    "pgnLocation": "data/alexander.brezgin-alexey.shklyar.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/3YDzcqCr"
+    }
+  },
+  {
+    "whiteId": "alexey.shklyar",
+    "blackId": "alexander.brezgin",
+    "tournamentId": "blitz2.may2019",
+    "date": "14-06-2019",
+    "result": "ww",
+    "timeControlType": "BLITZ",
+    "pgnLocation": "data/alexey.shklyar-alexander.brezgin.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/ajwTwrEF"
+    }
+  },
+  {
+    "whiteId": "alexander.brezgin",
+    "blackId": "alexey.matveev",
+    "tournamentId": "blitz2.may2019",
+    "date": "14-06-2019",
+    "result": "bw",
+    "timeControlType": "BLITZ",
+    "pgnLocation": "data/alexander.brezgin-alexey.matveev.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/XantzpG5"
+    }
+  },
+  {
+    "whiteId": "alexey.matveev",
+    "blackId": "alexander.brezgin",
+    "tournamentId": "blitz2.may2019",
+    "date": "14-06-2019",
+    "result": "ww",
+    "timeControlType": "BLITZ",
+    "pgnLocation": "data/alexey.matveev-alexander.brezgin.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/QLZAhH1x"
+    }
   }
 ]

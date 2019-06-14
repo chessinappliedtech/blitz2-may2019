@@ -1,0 +1,17 @@
+[Event "Блиц №2. Май-Июнь 2019"]
+[Site "https://lichess.org/BplNu4mp"]
+[Date "14.06.2019, 16:41:15"]
+[Round "-"]
+[White "Александр Шкабара"]
+[Black "Алексей Матвеев"]
+[Result "0-1"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[Termination "Unknown"]
+[Annotator "lichess.org"]
+
+1. d4 d5 2. Nf3 { D02 Queen's Pawn Game: Zukertort Variation } Bf5 3. Bf4 Nf6 4. e3 e6 5. c4 c6 6. Nc3 Bd6 7. Bxd6 Qxd6 8. Ne5 Nbd7 9. c5 Qc7 10. f4 Ne4 11. g4 Nxc3 12. bxc3 Be4 13. Rg1 f6 14. Nxd7 Qxd7 15. Bh3 Qf7 16. f5 e5 17. Qe2 h5 18. g5 Ke7 19. gxf6+ gxf6 20. O-O-O Rag8 21. Qb2 Rb8 22. Rg6 b6 23. Qg2 Bxg2 24. Bxg2 bxc5 25. dxc5 Rhg8 { Black wins. } 0-1
